@@ -2,7 +2,6 @@
 
 
 ## 🚀 About Me  
-🎯 **Who I am:*iam 
 farmehr farkhesht*  
 - 👨‍💻 iam currently learning python/django.      
 
@@ -14,10 +13,7 @@ farmehr farkhesht*
 ### Programming Languages  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![C](
 ### Frameworks & Libraries  
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
 
 ### Tools  
@@ -28,9 +24,7 @@ farmehr farkhesht*
 ---
 
 ## 🌟 Highlights  
-- 🔭 **Current Projects:**  
-  - [📂 Project 1](https://github.com/username/project1): A short description of the project.  
-  - [📂 Project 2](https://github.com/username/project2): A short description of the project.  
+- 🔭 **Current Projects:**   
 
 - 🎓 **Achievements:**  
   - [Award/Certificate Name](https://example.com): Description.  
